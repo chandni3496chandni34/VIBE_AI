@@ -1,0 +1,27 @@
+{
+  "metadata": {
+    "soundFile": "C:\\Users\\Chandni Kumari\\Documents\\3DchatBot\\32chat\\chatgpt-yt\\back\\audios\\intro_1.wav",
+    "duration": 3.18
+  },
+  "mouthCues": [
+    { "start": 0.00, "end": 0.04, "value": "X" },
+    { "start": 0.04, "end": 0.70, "value": "B" },
+    { "start": 0.70, "end": 0.77, "value": "C" },
+    { "start": 0.77, "end": 0.84, "value": "F" },
+    { "start": 0.84, "end": 0.92, "value": "A" },
+    { "start": 0.92, "end": 0.98, "value": "D" },
+    { "start": 0.98, "end": 1.51, "value": "B" },
+    { "start": 1.51, "end": 1.66, "value": "F" },
+    { "start": 1.66, "end": 2.01, "value": "B" },
+    { "start": 2.01, "end": 2.19, "value": "X" },
+    { "start": 2.19, "end": 2.29, "value": "B" },
+    { "start": 2.29, "end": 2.57, "value": "C" },
+    { "start": 2.57, "end": 2.64, "value": "G" },
+    { "start": 2.64, "end": 2.78, "value": "B" },
+    { "start": 2.78, "end": 2.85, "value": "C" },
+    { "start": 2.85, "end": 2.92, "value": "D" },
+    { "start": 2.92, "end": 3.00, "value": "A" },
+    { "start": 3.00, "end": 3.12, "value": "B" },
+    { "start": 3.12, "end": 3.18, "value": "X" }
+  ]
+}

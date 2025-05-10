@@ -1,0 +1,40 @@
+{
+  "metadata": {
+    "soundFile": "C:\\Users\\Chandni Kumari\\Documents\\3DchatBot\\32chat\\chatgpt-yt\\back\\audios\\api_1.wav",
+    "duration": 5.32
+  },
+  "mouthCues": [
+    { "start": 0.00, "end": 0.74, "value": "X" },
+    { "start": 0.74, "end": 0.84, "value": "B" },
+    { "start": 0.84, "end": 0.98, "value": "C" },
+    { "start": 0.98, "end": 1.26, "value": "F" },
+    { "start": 1.26, "end": 1.33, "value": "G" },
+    { "start": 1.33, "end": 1.40, "value": "F" },
+    { "start": 1.40, "end": 1.47, "value": "B" },
+    { "start": 1.47, "end": 1.55, "value": "A" },
+    { "start": 1.55, "end": 1.74, "value": "D" },
+    { "start": 1.74, "end": 1.81, "value": "F" },
+    { "start": 1.81, "end": 1.95, "value": "B" },
+    { "start": 1.95, "end": 2.09, "value": "C" },
+    { "start": 2.09, "end": 2.16, "value": "B" },
+    { "start": 2.16, "end": 2.23, "value": "C" },
+    { "start": 2.23, "end": 2.31, "value": "A" },
+    { "start": 2.31, "end": 2.67, "value": "B" },
+    { "start": 2.67, "end": 2.74, "value": "C" },
+    { "start": 2.74, "end": 3.23, "value": "B" },
+    { "start": 3.23, "end": 3.31, "value": "A" },
+    { "start": 3.31, "end": 3.81, "value": "B" },
+    { "start": 3.81, "end": 3.88, "value": "C" },
+    { "start": 3.88, "end": 3.96, "value": "A" },
+    { "start": 3.96, "end": 4.27, "value": "C" },
+    { "start": 4.27, "end": 4.39, "value": "A" },
+    { "start": 4.39, "end": 4.56, "value": "B" },
+    { "start": 4.56, "end": 4.63, "value": "C" },
+    { "start": 4.63, "end": 4.78, "value": "H" },
+    { "start": 4.78, "end": 4.84, "value": "B" },
+    { "start": 4.84, "end": 4.90, "value": "A" },
+    { "start": 4.90, "end": 4.96, "value": "D" },
+    { "start": 4.96, "end": 5.22, "value": "B" },
+    { "start": 5.22, "end": 5.32, "value": "X" }
+  ]
+}
